@@ -1,0 +1,1 @@
+The Mentor-Student Relationship Management API is a comprehensive solution designed to streamline the administration of mentor-student relationships. It offers a suite of features for creating and managing mentors and students, assigning relationships, and retrieving information.
