@@ -1,7 +1,6 @@
 /** @format */
 import Mentor from "../models/mentorModel.js";
 
-
 const createMentor = async (req, res, next) => {
   try {
     const { name } = req.body;
